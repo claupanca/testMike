@@ -31,4 +31,4 @@ jobs:
         with:
           branch: gh-pages # This is the branch where the site will be deployed
           folder: out # This is the folder where your exported site will be (usually 'out' for Next.js)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
