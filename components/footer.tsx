@@ -8,7 +8,7 @@ export function Footer() {
           <div>
             <div className="relative h-14 w-56 mb-6">
               <Image
-                src="/mkm-digital-logo.png"
+                src="./mkm-digital-logo.png"
                 alt="MkM Digital"
                 fill
                 className="object-contain brightness-0 invert"
