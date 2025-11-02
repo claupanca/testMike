@@ -6,9 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/testMike",
+  // basePath: "/testMike",
   // assetPrefix: "/testMike",
-  assetPrefix: "https://claupanca.github.io/testMike",
   output: "export",
 };
 
