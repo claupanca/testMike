@@ -7,7 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: "/testMike",
-  assetPrefix: "/testMike",
+  // assetPrefix: "/testMike",
+  assetPrefix: "https://claupanca.github.io/testMike",
   output: "export",
 };
 
